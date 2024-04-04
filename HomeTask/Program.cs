@@ -1,0 +1,10 @@
+﻿int a = 3;
+int b = 5;
+int c = 7;
+double d = 9;
+double sum1 = a * b;
+double sum2 = c + d;
+double sum3 = sum1 / sum2;
+Console.WriteLine(sum1);
+Console.WriteLine(sum2);
+Console.WriteLine(sum3);
